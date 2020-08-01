@@ -10,6 +10,9 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    "android":{
+      "package" : "in.Picker_Color_Random"
+    },
     "updates": {
       "fallbackToCacheTimeout": 0
     },
@@ -21,6 +24,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
